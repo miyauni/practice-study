@@ -1,0 +1,12 @@
+.box1 {
+  width: 80px;
+  height: 80px;
+  background-color: #b2ffff;
+}
+.box1 p {
+  color: red;
+}
+.box1 img {
+  width: 40px;
+  height: 40px;
+}
